@@ -1,0 +1,17 @@
+httpx
+
+[all]
+httpx
+pytest
+pylint
+flake8
+isort
+
+[dev]
+pytest
+pylint
+flake8
+isort
+
+[telegram]
+httpx
